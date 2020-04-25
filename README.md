@@ -4,7 +4,7 @@
  # Installation
  
  ```bash
-mpm install 
+npm install 
 ```
 
 # Usage
